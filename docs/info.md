@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+it is a seven segment decoder it take the input from user.
 
 ## How to test
 
-Explain how to use your project
+run on the simulation try to change the input and then with the help of expected output or truthtable we can verify it.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment display
